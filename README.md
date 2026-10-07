@@ -1,2 +1,2 @@
 # AAA
-Introduction à Git et GitHub
+Introduction à Git et GitHub.
